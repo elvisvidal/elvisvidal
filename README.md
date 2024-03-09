@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about: React, Vue, Angular(ish)
+- 💬 Ask me about: React, Vue, Angular
 - 📫 How to reach me: [Email](mailto:elvis.vidal.silva@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/elvis-vidal/)
 - ⚡ Fun fact: I'm a licensed USPA skydiver 🪂, PADI scuba diver 🤿, beginner skier ⛷️ and, every now and then, I go climbing/bouldering 🧗.
 
