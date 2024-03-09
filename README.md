@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 💬 Ask me about: React, Vue, Angular(ish)
+- 📫 How to reach me: [Email](mailto:elvis.vidal.silva@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/elvis-vidal/)
+- ⚡ Fun fact: I'm a licensed USPA skydiver 🪂, PADI scuba diver 🤿, beginner skier ⛷️ and, every now and then, I go climbing/bouldering 🧗.
+
 <!--
 **elvisvidal/elvisvidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
