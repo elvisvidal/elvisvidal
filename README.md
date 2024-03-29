@@ -2,6 +2,7 @@
 
 - 💬 Ask me about: React, Vue, Angular
 - 📫 How to reach me: [Email](mailto:elvis.vidal.silva@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/elvis-vidal/)
+- 🔭 I’m currently working on mini Todo Apps to compare the use of the latest updates on Next, Nuxt and AnalogJS
 - ⚡ Fun fact: I'm a licensed USPA skydiver 🪂, PADI scuba diver 🤿, beginner skier ⛷️ and, every now and then, I go climbing/bouldering 🧗.
 
 <!--
